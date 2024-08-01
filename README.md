@@ -1,6 +1,8 @@
 # 代码参考来源
 https://github.com/beerpiss/ipatool.ts
 
+From: https://www.52pojie.cn/thread-1863801-1-1.html
+
 
 ## 功能
 只有下载ipa功能，没有查询版本号，和购买功能
